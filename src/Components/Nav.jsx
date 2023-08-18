@@ -1,8 +1,7 @@
 import React from 'react'
 
 // imgs
-import troll from '../assets/imgs/troll-face.svg';
-
+import troll from "../assets/imgs/Troll-Face.svg"
 // css
 import navCss from '../assets/css/nav.module.css';
 export default function Nav() {
